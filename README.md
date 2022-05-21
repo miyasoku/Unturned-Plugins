@@ -1,2 +1,2 @@
 # Unturned-Plugins
-The rocket mod plugins.
+The rocket mod plugin.
