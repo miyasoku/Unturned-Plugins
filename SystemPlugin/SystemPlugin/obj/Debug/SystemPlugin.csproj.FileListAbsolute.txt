@@ -1,0 +1,15 @@
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\SystemPlugin.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\SystemPlugin.pdb
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Assembly-CSharp.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Newtonsoft.Json.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Rocket.API.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Rocket.Core.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\Rocket.Unturned.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\UnityEngine.CoreModule.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\bin\Debug\UnityEngine.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\obj\Debug\SystemPlugin.csproj.AssemblyReference.cache
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\obj\Debug\SystemPlugin.csproj.CoreCompileInputs.cache
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\obj\Debug\SystemPlugin.csproj.CopyComplete
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\obj\Debug\SystemPlugin.dll
+D:\Unturned Plugins\SystemPlugin\SystemPlugin\obj\Debug\SystemPlugin.pdb
