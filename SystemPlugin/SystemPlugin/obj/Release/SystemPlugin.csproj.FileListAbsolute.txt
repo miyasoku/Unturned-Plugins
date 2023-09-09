@@ -1,0 +1,15 @@
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\SystemPlugin.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\SystemPlugin.pdb
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Assembly-CSharp.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Rocket.API.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Rocket.Core.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\Rocket.Unturned.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\bin\Release\UnityEngine.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\obj\Release\SystemPlugin.csproj.AssemblyReference.cache
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\obj\Release\SystemPlugin.csproj.CoreCompileInputs.cache
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\obj\Release\SystemPlugin.csproj.CopyComplete
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\obj\Release\SystemPlugin.dll
+C:\Users\81704\Source\Repos\miyasoku\Unturned-Plugins\SystemPlugin\SystemPlugin\obj\Release\SystemPlugin.pdb
